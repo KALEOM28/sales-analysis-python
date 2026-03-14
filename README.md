@@ -13,3 +13,11 @@ Analysis:
 - Sales by City
 - Top Selling Product
 - City with Highest Sales
+
+Visualizations
+
+Product Sales
+![Product Sales](product_sales.png)
+
+City Sales
+![City Sales](city_sales.png)
